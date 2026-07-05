@@ -306,26 +306,6 @@ My personal developer portfolio showcasing projects, skills, and experience.
 </div>
 
 ---
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hansika-eng&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hansika-eng&theme=algolia&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
 # 📊 Profile Summary
 
 <div align="center">
