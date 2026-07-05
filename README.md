@@ -125,8 +125,6 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python"/>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
@@ -308,26 +306,6 @@ My personal developer portfolio showcasing projects, skills, and experience.
 </div>
 
 ---
-
-# 📚 Currently Learning
-
-- Advanced Backend Development
-- System Design Fundamentals
-- Machine Learning
-- Data Structures & Algorithms
-- Open Source Contributions
-
----
-
-# 💬 Quote I Like
-
-> *"The best way to learn is to build."*
-
----
-
-</p>
-
----
 # 📈 Contribution Graph
 
 <div align="center">
@@ -405,9 +383,6 @@ My personal developer portfolio showcasing projects, skills, and experience.
 <div align="center">
 
 ### 💡 Thanks for visiting my profile!
-
 *"Building meaningful software, one project at a time."*
-
 ⭐ If you like my work, feel free to explore my repositories and connect with me.
-
 </div>
