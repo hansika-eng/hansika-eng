@@ -101,7 +101,7 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 
-<img src="https://skillicons.dev/icons?i=spring-boot"/>
+<img src="https://skillicons.dev/icons?i=spring"/>
 
 <img src="https://skillicons.dev/icons?i=flask"/>
 
