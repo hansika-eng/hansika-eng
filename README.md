@@ -149,7 +149,7 @@
 
 ### 🧠 DetectX
 
-Machine Learning application that detects fake social media profiles through data preprocessing, feature engineering, model training, and prediction.
+DetectX is an end-to-end machine learning application that identifies fake social media profiles by analyzing account characteristics and behavioral patterns.
 
 **Tech Stack**
 
