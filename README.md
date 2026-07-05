@@ -40,15 +40,7 @@
 
 # 👩‍💻 About Me
 
-🎓 B.Tech student in **Artificial Intelligence & Data Science**
-
-💻 Passionate about **Full Stack Development** and **Machine Learning**
-
-🌱 Currently exploring scalable web applications, backend development, and intelligent systems.
-
-🚀 I enjoy turning ideas into practical software that solves real-world problems.
-
-🎯 My goal is to become a Software Development Engineer while continuously improving my problem-solving and development skills.
+🎓 I'm an AI & Data Science undergraduate passionate about full-stack development and machine learning. I enjoy building practical applications that solve real-world problems while continuously improving my problem-solving and software engineering skills.
 
 ---
 
